@@ -95,6 +95,6 @@
         backdrop-filter: blur(var(--blur-strength));
     }
 }
-/*
+
 body { image-rendering: auto; }
-*/
+
