@@ -88,12 +88,13 @@
     }
 
     .menu_c1e9c4:before { /* right click menu blur */
-        /*content: "";
+        content: "";
         position: absolute;
         inset: 0;
         border-radius: inherit;
         backdrop-filter: blur(var(--blur-strength));
     }
 }
-
+/*
 body { image-rendering: auto; }
+*/
