@@ -1,8 +1,8 @@
 /**
- * @name PurplePrune
- * @author computer-catt
- * @description A simple thorough transparent theme
- * @version 0.1.0
+ * @name Hanzism V2 Theme
+ * @author jak142
+ * @description The official Hanzism Theme
+ * @version 0.0.1
  */
 
 /* config header */
@@ -13,7 +13,7 @@
     /*--window-tint: #0000;*/
 
     /* Theme Background, replace with none if you want transparency*/
-    --theme-background-image: url(https://github.com/computer-catt/PurplePrune/blob/main/Assets/NightTheme.webp?raw=true);
+    --theme-background-image: url(https://github.com/Jak142142/picture-uploads/blob/DC-Theme/Querformat%202.png?raw=true);
     /*--theme-background-image: none;*/
 
     /* Works best with background enabled ^ */
